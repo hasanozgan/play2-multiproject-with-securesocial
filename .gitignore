@@ -1,6 +1,10 @@
 *.class
 *.log
 
+#Idea
+.idea*
+.settings
+
 # sbt specific
 .cache/
 .history/
